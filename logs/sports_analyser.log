@@ -1,0 +1,22 @@
+2026-06-13 10:57:02,361  INFO      scraper.fetch_data — Fetching IPL batting stats...
+2026-06-13 10:57:02,367  INFO      scraper.fetch_data — Loaded 15 IPL batting records
+2026-06-13 10:57:02,368  INFO      scraper.fetch_data — Fetching IPL bowling stats...
+2026-06-13 10:57:02,369  INFO      scraper.fetch_data — Loaded 15 IPL bowling records
+2026-06-13 10:57:02,369  INFO      analyser.stats — Calculating top 5 batters by runs
+2026-06-13 10:57:02,381  INFO      analyser.stats — Calculating team batting summary
+2026-06-13 10:57:02,392  INFO      analyser.stats — Calculating top 5 bowlers by wickets
+2026-06-13 10:57:02,393  INFO      analyser.stats — Finding top 5 most economical bowlers
+2026-06-13 10:57:02,789  INFO      visualiser.charts — Chart saved: charts/top_batters_runs.png
+2026-06-13 10:57:02,904  INFO      visualiser.charts — Chart saved: charts/strike_rate_vs_average.png
+2026-06-13 10:57:02,962  INFO      visualiser.charts — Chart saved: charts/team_total_runs.png
+2026-06-13 10:57:03,055  INFO      visualiser.charts — Chart saved: charts/top_bowlers_wickets.png
+2026-06-13 10:57:03,154  INFO      visualiser.charts — Chart saved: charts/economy_vs_wickets.png
+2026-06-13 10:57:03,158  INFO      scraper.fetch_data — Fetching Premier League stats...
+2026-06-13 10:57:03,158  INFO      scraper.fetch_data — Loaded 15 Premier League player records
+2026-06-13 10:57:03,158  INFO      analyser.stats — Calculating top 5 scorers
+2026-06-13 10:57:03,158  INFO      analyser.stats — Calculating top 5 assisters
+2026-06-13 10:57:03,159  INFO      analyser.stats — Calculating goal contributions
+2026-06-13 10:57:03,160  INFO      analyser.stats — Calculating club summary
+2026-06-13 10:57:03,256  INFO      visualiser.charts — Chart saved: charts/football_top_scorers.png
+2026-06-13 10:57:03,382  INFO      visualiser.charts — Chart saved: charts/goals_vs_assists.png
+2026-06-13 10:57:03,456  INFO      visualiser.charts — Chart saved: charts/club_total_goals.png
